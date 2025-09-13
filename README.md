@@ -1,5 +1,9 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# NAME: Sanjay A
+#reg.no : 212224040288
+# date: 13.9.2025
 # AIM
+
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
 
